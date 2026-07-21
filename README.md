@@ -90,3 +90,4 @@ The interface includes customizable button variants with hover elevations, rippl
 ---
 
 ## 🏗️ Technical Architecture
+The application follows a **Serverless, Client-Side Jamstack Single-Page Application (SPA)** pattern. It eliminates the need for a dedicated backend server by consuming decentralized RESTful microservices, public Content Delivery Networks (CDNs), and cloud document storage engines directly from the client browser.
